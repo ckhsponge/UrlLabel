@@ -1,0 +1,8 @@
+This UILabel draws with an underline under the text! I found the underline code at:
+http://blog.odynia.org/archives/40-Underlined-UILabel.html
+
+My addition was a url parameter that the label will open when clicked on. As a bonus there is also a callback handler.
+
+Enjoy.
+Chris Hobbs
+http://toonsy.net
